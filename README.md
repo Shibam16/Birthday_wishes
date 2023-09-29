@@ -1,3 +1,3 @@
 # Birthday_wishes
-<a href="https://Shibam16.me / Birthday_wishes/Shibam" target="blank">Click Here</a>
+Happy Birthday Website made using Html, css and JavaScript
 
